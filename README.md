@@ -11,4 +11,6 @@ Works for Goke GK7205V200, Goke GK7205V210, Goke GK7205V300
 
 Docx file: https://github.com/sandhu1609/Documentation-OpenIPC-Goke/blob/main/Installation-Document-GOKE-OpenIPC.docx
 
-
+Screen Recording videos are also available but currently in low resolution (SD only). 
+Text are not visible clearly. 
+Visit https://www.youtube.com/playlist?list=PL7BUNvQR-5yh5t563lhHrehD27eP1-pet
