@@ -9,5 +9,6 @@ Note/Disclaimer:
 Installation instructions of OpenIPC in Goke Processor Based PCB by using Burn method. 
 Works for Goke GK7205V200, Goke GK7205V210, Goke GK7205V300
 
+Docx file: https://github.com/sandhu1609/Documentation-OpenIPC-Goke/blob/main/Installation-Document-GOKE-OpenIPC.docx
 
 
